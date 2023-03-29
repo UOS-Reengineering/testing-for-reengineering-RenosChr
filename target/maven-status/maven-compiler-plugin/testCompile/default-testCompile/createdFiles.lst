@@ -1,3 +1,5 @@
+example\project\domain\TestScenario.class
+example\project\TestSimulator.class
 example\project\TestADS.class
 example\project\TestChecker.class
 example\project\domain\TestSnapshot.class
